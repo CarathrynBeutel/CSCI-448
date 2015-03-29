@@ -39,6 +39,10 @@ public class MainActivity extends ActionBarActivity {
         return super.onOptionsItemSelected(item);
     }
     
+    public void resetGame(View v) {
+    	this.recreate();
+    }
+    
     public void onButtonClick(View v) {
     	switch(v.getId()) {
     	case R.id.button1:
