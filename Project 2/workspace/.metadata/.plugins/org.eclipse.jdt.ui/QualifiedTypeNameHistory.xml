@@ -1,8 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="android.R"/>
-<fullyQualifiedTypeName name="android.view.View"/>
-<fullyQualifiedTypeName name="android.widget.Button"/>
-<fullyQualifiedTypeName name="com.example.tictactoe.R.id"/>
-<fullyQualifiedTypeName name="android.widget.TextView"/>
-</qualifiedTypeNameHistroy>
+<qualifiedTypeNameHistroy/>

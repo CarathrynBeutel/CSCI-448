@@ -1648,6 +1648,8 @@ containing a value of this type.
         public static final int abc_textfield_search_default_mtrl_alpha=0x7f020035;
         public static final int abc_textfield_search_material=0x7f020036;
         public static final int ic_launcher=0x7f020037;
+        public static final int o=0x7f020038;
+        public static final int x=0x7f020039;
     }
     public static final class id {
         public static final int action_bar=0x7f090031;

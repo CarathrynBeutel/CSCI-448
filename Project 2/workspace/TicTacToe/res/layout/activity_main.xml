@@ -92,4 +92,15 @@
         android:layout_height="wrap_content"
         android:text="Reset"
         android:onClick="resetGame" />
+    
+    <TextView android:id="@+id/p1Score"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/p1Score"/>
+    
+      
+    <TextView android:id="@+id/p2Score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/p2Score"/>
 </LinearLayout>

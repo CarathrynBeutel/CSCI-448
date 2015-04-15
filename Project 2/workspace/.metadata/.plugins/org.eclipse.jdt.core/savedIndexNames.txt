@@ -1,9 +1,0 @@
-INDEX VERSION 1.126+C:\Users\someNANNERS\Dropbox\School Stuff\Mobile App Dev\CSCI448\Project 2\workspace\.metadata\.plugins\org.eclipse.jdt.core
-1945609499.index
-4144675614.index
-3587156442.index
-3515282563.index
-4068512053.index
-3735957164.index
-3023100672.index
-232025175.index
